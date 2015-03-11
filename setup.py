@@ -70,6 +70,7 @@ setup(
     author_email='dain@yubico.com',
     maintainer='Yubico Open Source Maintainers',
     maintainer_email='ossmaint@yubico.com',
+    description='Authentication backend written in Python',
     url='https://github.com/Yubico/yubiauth',
     license='BSD 2 clause',
     packages=['yubiauth', 'yubiauth.core', 'yubiauth.client', 'yubiauth.util'],
